@@ -1,3 +1,4 @@
+# Split data
 set.seed(42)
 n <- nrow(mtcars)
 id <- sample(1:n, size = n*0.8) 
