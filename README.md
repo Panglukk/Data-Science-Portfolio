@@ -1,4 +1,4 @@
-# Data Science Bootcamp9 Bath 9
+# Data Science Bootcamp Bath 9
 
 I am learning data science bootcamp. There are 10 sprint in the program
 
