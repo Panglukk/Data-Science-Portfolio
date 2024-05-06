@@ -110,6 +110,6 @@ mean(p == test_df_z$churn)
 test_df_z$churn <- as.factor(test_df_z$churn)
 
 confusionMatrix(p, 
-								test_df_z$churn, 
-								positive = "Yes",
+		test_df_z$churn, 
+		positive = "Yes",
                 mode = "prec_recall")
